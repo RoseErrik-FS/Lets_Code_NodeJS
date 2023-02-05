@@ -1,5 +1,5 @@
 const express = require("express");
-const router = require("./router/router");
+const router = require("../router/router");
 const app = express();
 
 // Payload Handler - Middleware json payloads for request model
